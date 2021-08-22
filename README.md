@@ -1,5 +1,5 @@
 <h1 align="center">Dockerized</h1>
-<p align="center">Collection of Docker Containers in a Variety of Applications. This Repo Contains the Projects I Built and What I learned.</p>
+<p align="center">Collection of Docker Learning Projects.This Repo Contains My Projects and Learnings.</p>
 
 ## 1. The Dockerfile. (Examples in each repo).
 #### Commands to build the image.
@@ -10,7 +10,7 @@
 
 ## 3. Docker Run
 ### ``` docker run -dp 3000:3000 getting-started```
-### ``` docker run -dp 3000:3000 -v todo-db:/etc/todos getting-started``` #### Use with volume.
+### ``` docker run -dp 3000:3000 -v todo-db:/etc/todos getting-started``` -- Use with volume.
 #### Run the container "getting-started" on port 8080.
 
 ## 4. Docker Ps
