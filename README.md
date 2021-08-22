@@ -63,7 +63,7 @@ https://labs.play-with-docker.com/ - Use to test online containers.
 #### View the history or layers of your container.
 
 ## 16. Docker Caching and Ignoring.
-### https://github.com/docker/getting-started/blob/master/docs/tutorial/image-building-best-practices/index.md#layer-caching
+##### https://github.com/docker/getting-started/blob/master/docs/tutorial/image-building-best-practices/index.md#layer-caching
 
 ## 17. Orchestration
 * Swarm
