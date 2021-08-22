@@ -1,5 +1,5 @@
 <h1 align="center">Dockerized</h1>
-<p align="center">Collection of Docker Learning Projects.This Repo Contains My Projects and Learnings.</p>
+<p align="center">Collection of Docker Learning Projects. This Repo Contains My Projects and Learnings.</p>
 
 ## 1. The Dockerfile. (Examples in each repo).
 #### Commands to build the image.
