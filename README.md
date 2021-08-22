@@ -45,7 +45,7 @@ https://labs.play-with-docker.com/ - Use to test online containers.
 #### Create a location for files to be persisted throughout different container runs locally.
 
 ## 12. Bind Mounts
-##### ``` docker run -dp 3000:3000 ` -w /app -v "$(pwd):/app" ` node:12-alpine ` sh -c "yarn install && yarn run dev" (Run on Powershell)```
+``` docker run -dp 3000:3000 ` -w /app -v "$(pwd):/app" ` node:12-alpine ` sh -c "yarn install && yarn run dev" (Run on Powershell)```
 #### Persistent DB with live reload and control over volume.
 
 ## 13. Database Connections
@@ -58,8 +58,8 @@ https://labs.play-with-docker.com/ - Use to test online containers.
 ### ```docker scan <container-name>```
 #### Scan your container for security issues.
 
-## 15. Docker Image History
-### ```docker image history <containe-name>```
+## 15. Docker Image Historyc
+### ```docker image history <container-name>```
 #### View the history or layers of your container.
 
 ## 16. Docker Caching and Ignoring.
