@@ -10,7 +10,7 @@
 
 ## 3. Docker Run
 ### ``` docker run -dp 3000:3000 getting-started```
-### ``` docker run -dp 3000:3000 -v todo-db:/etc/todos getting-started``` -- Use with volume.
+### ``` docker run -dp 3000:3000 -v todo-db:/etc/todos getting-started```
 #### Run the container "getting-started" on port 8080.
 
 ## 4. Docker Ps
